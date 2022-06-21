@@ -5,4 +5,4 @@ int num = Convert.ToInt32(Console.ReadLine());
 int dig1 = num / 100;
 int dig2 = num / 10;
 int dig3 = num % 10;
-Console.Write("Обратная запись числа: " + numrev);  
+Console.Write("Обратная запись числа: ");  
